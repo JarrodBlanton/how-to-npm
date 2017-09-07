@@ -12,6 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/JarrodBlanton/how-to-npmn.git"
   },
+  "dependencies": {
+    "@linclark/pkg": "^1.0.3"
+  },
   "bugs": {
     "url": "https://github.com/JarrodBlanton/how-to-npmn/issues"
   },
