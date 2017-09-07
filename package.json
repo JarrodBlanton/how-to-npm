@@ -10,7 +10,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jarrodblanton"
+    "url": "https://github.com/JarrodBlanton/how-to-npmn"
   },
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
