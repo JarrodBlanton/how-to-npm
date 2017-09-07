@@ -1,6 +1,6 @@
 {
-  "name": "@jarrodblanton/how-to-npm",
-  "version": "1.0.2",
+  "name": "npmtest",
+  "version": "1.0.3",
   "description": "testing npm project initialization",
   "main": "index.js",
   "scripts": {
@@ -10,9 +10,11 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JarrodBlanton/how-to-npmn"
+    "url": "git+https://github.com/JarrodBlanton/how-to-npmn.git"
   },
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "bugs": {
+    "url": "https://github.com/JarrodBlanton/how-to-npmn/issues"
+  },
+  "homepage": "https://github.com/JarrodBlanton/how-to-npmn#readme",
+  "devDependencies": {}
 }
